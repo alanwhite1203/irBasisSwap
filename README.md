@@ -1,0 +1,2 @@
+# irBasisSwap
+A basis swaps is an interest rate swap that involves the exchange of two floating rates, where the floating rate payments are referenced to different bases. Both legs of a basis swap are floating but derived from different index rates (e.g. LIBOR 1 month vs 3 month).  Basis swaps are settled in the form of periodic floating interest rate payments. They are quoted as a spread over the reference index. For example, 3-month LIBOR is frequently used as a reference. Spreads are quoted over it. 
