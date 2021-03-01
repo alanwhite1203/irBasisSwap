@@ -80,5 +80,5 @@ Index Day Count	dcAct360	Index Day Count	dcAct360
 
 
 You can find more details at
-https://finpricing.com/lib/FxVolIntroduction.html
+https://finpricing.com/faq.html
 
