@@ -78,7 +78,10 @@ Index Tenor	3M	Index Tenor	6M
 Index Day Count	dcAct360	Index Day Count	dcAct360
 
 
+References:
 
-You can find more details at
-https://finpricing.com/faq.html
+https://finpricing.com/lib/EqAsian.html
+
+https://bitbucket.org/cmrm11/irbasisswap/downloads/IrBasisSwap-27.pdf
+
 
